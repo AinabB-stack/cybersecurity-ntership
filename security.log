@@ -1,0 +1,10 @@
+{"level":"info","message":"APPLICATION_START: Security modules initialized."}
+{"level":"info","message":"XSS_TEST: Input sanitized. Result: &lt;script&gt;alert(&#x27;Hacker&#x27;)&lt;&#x2F;script&gt;"}
+{"level":"info","message":"PASSWORD_TEST: Secure hash generated for user."}
+2026-03-18T07:15:20.022Z [INFO]: XSS_PROTECTION: Input Sanitized. Result: &lt;script&gt;alert(&#x27;XSS Attack!&#x27;)&lt;&#x2F;script&gt;
+2026-03-18T07:15:20.041Z [INFO]: SERVER_STATUS: Running on http://localhost:3000
+2026-03-18T07:15:20.145Z [INFO]: PASSWORD_SECURITY: Bcrypt Hash Generated: $2b$10$MiiacDEd11MPVUl6m8e.q.LVY8.j6Ke4NNd4XNd3P83i/Z/QPiSz.
+2026-03-18T07:15:20.154Z [INFO]: JWT_AUTH: Secure Token Generated: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFpbmFiIiwicm9sZSI6IkludGVybiIsImlhdCI6MTc3MzgxODEyMCwiZXhwIjoxNzczODIxNzIwfQ.zpJ75pSMeZ0nU9GtNnj9BzpTbbJZ_tOoRlf_1uK1kzE
+{"level":"info","message":"APPLICATION_START: Security modules initialized."}
+{"level":"info","message":"XSS_TEST: Input sanitized. Result: &lt;script&gt;alert(&#x27;Hacker&#x27;)&lt;&#x2F;script&gt;"}
+{"level":"info","message":"PASSWORD_TEST: Secure hash generated for user."}
